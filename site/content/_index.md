@@ -1,7 +1,7 @@
 ---
 title: An Eden in your Apartment
 subtitle: Learn low-maintenance home gardening in tight spaces.
-image: img/about-shade-grown.jpg
+image: img/hydroponics.jpg
 blurb:
   heading: What is this?
   text: We're just a couple who decided to start growing herbs in our apartment
